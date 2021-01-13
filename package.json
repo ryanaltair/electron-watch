@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/IceEnd/electron-watch#readme",
   "dependencies": {
-    "chokidar": "^1.5.1"
+    "chokidar": "^3.5.0"
   }
 }
